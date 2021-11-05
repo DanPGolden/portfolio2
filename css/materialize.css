@@ -394,6 +394,15 @@
         display: block;
         font-size: 2rem; }
     
+    nav .button-collapse {
+      float: left;
+      position: relative;
+      z-index: 1;
+      height: 56px; }
+      nav .button-collapse i {
+        font-size: 2.7rem;
+        height: 56px;
+        line-height: 56px; }
     
     nav ul {
       margin: 0; }
@@ -486,7 +495,7 @@
     line-height: 2.508rem;
     margin: 1.14rem 0 0.912rem 0; }
   
-  
+
   
   .btn, .btn-large, .btn-flat {
     border: none;
@@ -590,7 +599,14 @@
       padding-top: .8rem; }
     .input-field .prefix ~ label {
       margin-left: 3rem; }
-   
+    @media only screen and (max-width : 992px) {
+      .input-field .prefix ~ input {
+        width: 86%;
+        width: calc(100% - 3rem); } }
+    @media only screen and (max-width : 600px) {
+      .input-field .prefix ~ input {
+        width: 80%;
+        width: calc(100% - 3rem); } }
   
   .input-field input[type=search] {
     display: block;
@@ -629,6 +645,7 @@
   
   
   
+ 
 select {
     background-color: rgba(255, 255, 255, 0.9);
     width: 100%;
