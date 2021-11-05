@@ -83,12 +83,8 @@ a {
 .customNavigation i{
   color: #970001;
 }
-#testimonial{
-  background-color: #970001;  
-}
-.testimonial-content h3 {
-  color: #970001;
-}
+
+
 .footer-top{
   background-color:#970001; 
 }
@@ -116,8 +112,8 @@ input[type="tel"]:focus:not([readonly]),
 input[type="number"]:focus:not([readonly]),
 input[type="search"]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #970001;
-  box-shadow: 0 1px 0 0 #970001;
+  border-bottom: 1px solid white;
+  box-shadow: 0 1px 0 0 white;
 }
 .submit-btn{
   color: #970001;  
@@ -175,7 +171,10 @@ textarea.materialize-textarea:focus:not([readonly]) {
   background-color: #970001;
 }
 
+.home-title {
+  postion: absolute; top: 10%; width: 100%; text-align: center;
+}
 /*=======================================
 Template Design By MarkUps.
 Author URI : http://www.markups.io/
-========================================*/
+========================================

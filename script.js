@@ -1,10 +1,5 @@
 /**	
-	* Template Name: MU Material
-	* Version: 1.0	
-	* Template Scripts
-	* Author: MarkUps
-	* Author URI: http://www.markups.io/
-
+	
 	Custom JS
 	
 	1. MOBILE MENU
@@ -35,15 +30,7 @@ jQuery(function($){
 	
 
     
-	
-    /* ----------------------------------------------------------- */
-	/*  4. PORTFOLIO SLIDER
-	/* ----------------------------------------------------------- */
 
-	jQuery('#portfolio-list').mixItUp();	
-
-
-	
 	 
 
 	/* ----------------------------------------------------------- */
