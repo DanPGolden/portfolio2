@@ -5,11 +5,9 @@ Author URI : http://www.markups.io/
 a {
   color: #970001;
 }
-
 .navbar-fixed nav {
   background-color: #970001;
 }
-
 .side-nav li:hover{
   background-color: #970001;  
 }
@@ -22,16 +20,9 @@ a {
 .home-title span{
   color: #970001;
 }
-.about-inner-right>h3{
-  color: #970001;
-}
-.personal-information>h3{
-  color: #970001;
-}
 .title{
   color: #970001;
 }
-
 .card-subtitle {
   color: #970001;
 }
@@ -44,50 +35,13 @@ a {
 .filter:focus{
   background-color: #970001;
 }
-#portfolio-list .mix:hover > a::before {
-  background-color: #970001;
-}
-.counter{
-  color: #970001;
-}
-
-.pro-bar-container.color-wisteria {
-  border-color: #970001;
-}
-
-.pro-bar.color-amethyst {
-  background-color: #970001;
-}
-.call-to-about i{
-  color: #970001;
-}
-
-.blog-post .card-action a{
-  color: #970001;
-}
-
-.post-comment:hover{
-  color: #970001 !important;
-}
-
-.readmore-btn:hover{
-  background-color: #970001;
-}
-#experience{
-  background-color: #970001;
-}
-
-.card-title i {
-  color: #970001;
-}
 .customNavigation i{
   color: #970001;
 }
-
-
 .footer-top{
   background-color:#970001; 
 }
+
 input[type="text"]:focus:not([readonly]) + label,
 input[type="password"]:focus:not([readonly]) + label,
 input[type="email"]:focus:not([readonly]) + label,
@@ -116,34 +70,17 @@ textarea.materialize-textarea:focus:not([readonly]) {
   box-shadow: 0 1px 0 0 white;
 }
 .submit-btn{
-  color: #970001;  
+  color: rgb(22, 14, 14);  
 }
 .submit-btn:hover,
 .submit-btn:focus{
-  background-color: #970001;
+  background-color: #1f1111;
 }
 .overlay-header{
   background-color: #970001;
 }
-.blog-content blockquote {
-  border-left: 5px solid #970001;
-}
-.share-area h4 i,
-.tag-area h4 i {
-  color: #970001;
-}
-.share-area a:hover,
-.share-area a:focus{
-  color: #970001;
-}
-.author-comments {
-  background-color: #970001 !important;
-}
 .reply-btn:hover{
   background-color: #970001; 
-}
-.pagination li.active{
-  background-color: #970001;
 }
 .card .card-action a {
   color: #970001;  
@@ -154,27 +91,8 @@ textarea.materialize-textarea:focus:not([readonly]) {
   background-color: #970001;
   border-color: #970001;
 }
-.prev-post:hover,
-.prev-post:focus,
-.next-post:hover,
-.next-post:focus{
-  background-color: #970001;
-}
 .submit-btn{
-  color: #970001;  
-}
-.side-nav li:hover,
-.side-nav li.active {
-  background-color: #970001; 
-}
-.progress .indeterminate {
-  background-color: #970001;
+  color: white;  
 }
 
-.home-title {
-  postion: absolute; top: 10%; width: 100%; text-align: center;
-}
-/*=======================================
-Template Design By MarkUps.
-Author URI : http://www.markups.io/
-========================================
+
