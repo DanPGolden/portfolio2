@@ -14,7 +14,7 @@ This is an updated portfolio now that we've had some practice with APIs and have
 ***
 ### Example
 The following image demonstrates the site's application appearance and functionality.
-![Portfolio](portfoliopic.png)
+![Portfolio](portfolio2.jpg)
 
 ***
 ### Link To Deployed Site
